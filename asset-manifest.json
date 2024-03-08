@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/sanketmahadik191/webpageReact/static/css/main.a0c44c10.css",
-    "main.js": "/sanketmahadik191/webpageReact/static/js/main.d2035a6f.js",
-    "static/js/453.cd4507aa.chunk.js": "/sanketmahadik191/webpageReact/static/js/453.cd4507aa.chunk.js",
-    "index.html": "/sanketmahadik191/webpageReact/index.html",
-    "main.a0c44c10.css.map": "/sanketmahadik191/webpageReact/static/css/main.a0c44c10.css.map",
-    "main.d2035a6f.js.map": "/sanketmahadik191/webpageReact/static/js/main.d2035a6f.js.map",
-    "453.cd4507aa.chunk.js.map": "/sanketmahadik191/webpageReact/static/js/453.cd4507aa.chunk.js.map"
+    "main.css": "/webpageReact/static/css/main.a0c44c10.css",
+    "main.js": "/webpageReact/static/js/main.c8c6ec6f.js",
+    "static/js/453.cd4507aa.chunk.js": "/webpageReact/static/js/453.cd4507aa.chunk.js",
+    "index.html": "/webpageReact/index.html",
+    "main.a0c44c10.css.map": "/webpageReact/static/css/main.a0c44c10.css.map",
+    "main.c8c6ec6f.js.map": "/webpageReact/static/js/main.c8c6ec6f.js.map",
+    "453.cd4507aa.chunk.js.map": "/webpageReact/static/js/453.cd4507aa.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a0c44c10.css",
-    "static/js/main.d2035a6f.js"
+    "static/js/main.c8c6ec6f.js"
   ]
 }
