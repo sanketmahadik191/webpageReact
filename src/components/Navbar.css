@@ -1,0 +1,35 @@
+.navbar{
+    font-size: 20px;
+    position: fixed;
+   
+}
+#nav{
+    /* padding: 2px 100px; */
+    position: fixed;
+    width: 100%;
+    z-index: 100;
+}
+#logos{
+    font-size: 30px;
+}
+
+
+#selected{
+    color: blue;
+    background-color: rgb(199, 197, 197);
+    border-radius: 20px;
+}
+
+.nav-item{
+    cursor: pointer;
+}
+
+@media screen and (max-width: 1000px) {
+  #hide{
+    display: none;
+  }
+  #nav{
+    padding: 2px 10px;
+  }
+  }
+  
