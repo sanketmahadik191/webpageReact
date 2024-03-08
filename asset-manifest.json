@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/sanketmahadik191/webpageReact/static/css/main.f855e6bc.css",
-    "main.js": "/sanketmahadik191/webpageReact/static/js/main.e1a11179.js",
+    "main.css": "/sanketmahadik191/webpageReact/static/css/main.a0c44c10.css",
+    "main.js": "/sanketmahadik191/webpageReact/static/js/main.d2035a6f.js",
     "static/js/453.cd4507aa.chunk.js": "/sanketmahadik191/webpageReact/static/js/453.cd4507aa.chunk.js",
-    "static/media/logo.svg": "/sanketmahadik191/webpageReact/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/sanketmahadik191/webpageReact/index.html",
-    "main.f855e6bc.css.map": "/sanketmahadik191/webpageReact/static/css/main.f855e6bc.css.map",
-    "main.e1a11179.js.map": "/sanketmahadik191/webpageReact/static/js/main.e1a11179.js.map",
+    "main.a0c44c10.css.map": "/sanketmahadik191/webpageReact/static/css/main.a0c44c10.css.map",
+    "main.d2035a6f.js.map": "/sanketmahadik191/webpageReact/static/js/main.d2035a6f.js.map",
     "453.cd4507aa.chunk.js.map": "/sanketmahadik191/webpageReact/static/js/453.cd4507aa.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.e1a11179.js"
+    "static/css/main.a0c44c10.css",
+    "static/js/main.d2035a6f.js"
   ]
 }
